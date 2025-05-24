@@ -6,5 +6,5 @@ Thanks for visiting my profile page. Feel free to look around and explore everyt
 
 ✏️ | About Me
 - 🔨 Roblox Developer
-- 🔨 Programmer, *to some extent*
+- 🔨 Programmer, ***to some extent***
 - 🧩 Proud to be autistic
