@@ -8,3 +8,12 @@ Thanks for visiting my profile page. Feel free to look around and explore everyt
 - 🔨 Roblox Developer
 - 🔨 Programmer, ***to some extent***
 - 🧩 Proud to be autistic
+
+### 📋 | My Skills
+- Luau (Roblox's fork of Lua)
+- Python
+- Discord.js
+- Discord.py
+
+### 📋 | My Skills (Icons)
+[![My Skills](https://skillicons.dev/icons?i=discord,discordjs,py,js)](https://skillicons.dev)
