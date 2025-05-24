@@ -17,3 +17,6 @@ Thanks for visiting my profile page. Feel free to look around and explore everyt
 
 ### 📋 | My Skills (Icons)
 [![My Skills](https://skillicons.dev/icons?i=discord,discordjs,py,js)](https://skillicons.dev)
+
+### 🔥| My GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=NotOMMiner&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
