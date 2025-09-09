@@ -5,11 +5,11 @@
 Thanks for visiting my profile page. Feel free to look around and explore everything about me!
 
 ### ✏️ | About Me
-- 🔨 Javascript Programmer
+- 🔨 Beginner to programming
 - 🧩 Proud to be autistic
 
 ### 📋 | My Skills
-- Discord.js
+- Beginner in Python
 
 ### 📋 | My Skills (Icons)
-[![My Skills](https://skillicons.dev/icons?i=discordjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
